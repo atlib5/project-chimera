@@ -1,0 +1,5 @@
+[project]
+name = "project-chimera"
+version = "0.1.0"
+description = "Agentic infrastructure for autonomous AI influencer"
+requires-python = ">=3.10"
