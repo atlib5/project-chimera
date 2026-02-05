@@ -1,0 +1,16 @@
+# Project Chimera – AI Rules
+
+Project Context:
+This is Project Chimera, an autonomous AI influencer infrastructure project.
+
+Prime Directive:
+NEVER generate implementation code without first checking the specs/ directory.
+
+Behavior Rules:
+- Always explain your plan before writing code.
+- If specifications are missing or unclear, ask for clarification.
+- Follow spec-driven development strictly.
+- Prefer clarity and safety over cleverness.
+
+Traceability:
+All decisions must be explainable and linked back to specifications.
