@@ -1,0 +1,5 @@
+review:
+  focus:
+    - spec_alignment
+    - security
+    - test_coverage
